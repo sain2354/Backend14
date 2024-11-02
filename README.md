@@ -14,7 +14,7 @@ Este backend proporciona una API REST que permite creacion de productos, regista
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/sain2354/Backend14.git
+    https://github.com/sain2354/Backend14 
 
 ### Somee.com
     https://www.backend12.somee.com/api/
